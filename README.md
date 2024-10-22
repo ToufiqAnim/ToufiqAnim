@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqanim&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqanim" /> </p>
 
 
-- 🔭 I’m currently working on ["DishDash" A food ordering Platform](https://github.com/ToufiqAnim/DishDash)
+- 🔭 I’m currently working on ["TrackVentory" An inventory management app](https://github.com/ToufiqAnim/TrackVentory)
 
-- 🌱 I’m currently learning **Python,SQL,Next.Js,Prisma**
+- 🌱 I’m currently learning **Python,SQL, Next.Js, Prisma**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-client-rho.vercel.app/](https://my-portfolio-client-rho.vercel.app/)
 
